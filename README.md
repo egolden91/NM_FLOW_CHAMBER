@@ -1,6 +1,6 @@
 # NM_FLOW_CHAMBER
 Solution of the stream function via a triangular combustion chamber via different numerical methods.
-a partical ios injected into the chember, this project generates solution for the particals trajectory while using finite diffrences methods. 
+a partical is injected into the chember with a constant vortex in the center. this project generates solution for the particals trajectory while using finite diffrences methods. 
 
 ![image](https://user-images.githubusercontent.com/104156586/218330724-9ac314f1-a2f9-4aa3-9ae0-4394834d6253.png) ![image](https://user-images.githubusercontent.com/104156586/218330876-abe6eeee-47b4-4751-830a-1bb1bc3788f1.png)
 
